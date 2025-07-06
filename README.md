@@ -1,5 +1,8 @@
 ﻿# C# Dependency Analyzer
 
+Author: Charles Zhang  
+Owner: Methodox Technologies, Inc.
+
 A tool that can quickly help identify dependencies of a source code project. This is useful in identifying unwanted nuget dependencies from any given entry assembly. It is equivalent to manually searching through .csproj to find which projects depend on which and debug NuGet dependencies.
 
 It can do those three things:
